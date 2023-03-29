@@ -8,3 +8,8 @@
 	url = https://github.com/patriciamar/shinyitemanalysis
 	shallow = true
 	registered = true
+[submodule "SIAmodules"]
+	path = SIAmodules
+	url = https://github.com/cran/SIAmodules
+	shallow = true
+	registered = true
