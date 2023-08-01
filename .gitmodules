@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ShinyItemAnalysis"]
-	path = ShinyItemAnalysis
-	url = https://github.com/patriciamar/shinyitemanalysis
 [submodule "SIAmodules"]
 	path = SIAmodules
 	url = https://github.com/cran/SIAmodules
+[submodule "ShinyItemAnalysis"]
+	path = ShinyItemAnalysis
+	url = https://github.com/patriciamar/shinyitemanalysis
